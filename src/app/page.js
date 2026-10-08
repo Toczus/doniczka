@@ -1,5 +1,5 @@
-import Card from '@/components/Card';
-import Counter from '@/components/Counter';
+import Card from './src/components/Card';
+import Counter from './src/components/Counter';
 
 
 export default function AboutPage() {
