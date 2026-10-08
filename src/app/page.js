@@ -11,7 +11,7 @@ export default function HomePage() {
     </main>
   );
 }
-import Card from '@/components/Card';
+
 
 export default function AboutPage() {
   return (
