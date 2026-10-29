@@ -5,4 +5,4 @@ export default function Card({ title, children }) {
       <div>{children}</div>
     </div>
   );
-}
+} 
